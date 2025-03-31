@@ -1,3 +1,3 @@
 # Stone-Paper-Scissors-Game
-This is my first project
+This is my first project.
 Author - Raj Pratap
